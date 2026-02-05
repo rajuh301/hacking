@@ -1,7 +1,7 @@
 {
   "name": "next-postgres-prisma-app",
   "version": "0.1.0",
-  "type": "module", 
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -17,9 +17,9 @@
     "encoding": "^0.1.13",
     "face-api.js": "^0.22.2",
     "lucide-react": "^0.545.0",
-    "next": "15.1.8",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
